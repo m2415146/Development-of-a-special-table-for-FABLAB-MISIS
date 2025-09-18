@@ -31,7 +31,7 @@ Here is my initial questionnaire
 
 ![IMG_3643](https://github.com/user-attachments/assets/925cae7f-f85a-45a2-8df3-49307bc03c95)
 
-The data was entered in the [table](https://docs.google.com/spreadsheets/d/1WFpNEpan8OwdX6MtDrM4EFjOio6TkwWlqCSvYgD193o/edit?usp=sharing)  
+The data was entered in the [table](https://docs.google.com/spreadsheets/d/1WFpNEpan8OwdX6MtDrM4EFjOio6TkwWlqCSvYgD193o/edit?usp=sharing)  . You can also see the table in the files attached to the repository.
 
 **Data analysis:** 
 
